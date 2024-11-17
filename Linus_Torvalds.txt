@@ -11,3 +11,61 @@ Linus Torvalds é casado com Tove Torvalds (Monni, de nascimento) — hexacampeã na
 Linus define-se como sendo “completamente ateísta religioso”, adicionando: “acredito que as pessoas parecem pensar que a religião traz moral e apreciação a natureza. Penso que esta afasta de ambos. Dando as pessoas a desculpa para dizer: ‘Oh, a natureza foi apenas criada’. E assim, o ato da criação é visto como algo miraculoso. Eu aprecio o fato que: ‘Uau, é incrível que algo assim primeiramente tenha acontecido’”. Mais tarde comentou que, enquanto na Europa, religião é basicamente uma questão pessoal, nos Estados Unidos, ela se torna algo bastante politizado. Discutindo a questão da separação entre Estado e Igreja, Torvalds disse: “É um tanto irônico que em tantos países europeus, exista, na verdade um tipo de ligação legal entre o Estado e a religião do Estado”.
 
 Em 2010, Torvalds tornou-se cidadão estado-unidense, e se registrou para votar no país. Não é afiliado a nenhum partido político do país, acrescentando: “Em parte tenho demasiado orgulho pessoal para querer me associar a qualquer um deles, francamente”.
+
+Carreira
+Torvalds frequentou a Universidade de Helsínquia, entre 1988 e 1996,[7] obtendo um Mestrado em Ciência da Computação a partir do grupo de pesquisa NODES.[8] Sua carreira acadêmica foi interrompida após seu primeiro ano de estudo universitário, quando ele se juntou ao Exército da Finlândia. Lá, ocupa o posto de Segundo Tenente, com o papel de um oficial de cálculo balístico. Em 1990, retoma seus estudos universitários e é exposto ao sistema operacional Unix pela primeira vez, através de um computador DEC MicroVAX com o SO ULTRIX. Sua Dissertação de Mestrado intitula-se Linux: um sistema operacional portátil.
+
+Entrementes, em 1983, Richard Stallman cria a ideia do Sistema Operacional GNU, juntamente com a criação do Projeto GNU (que começou o seu desenvolvimento em janeiro de 1984). O Projeto GNU cresceu bastante a ponto de se fazer necessária a criação de uma fundação que desse apoio ao Projeto GNU, que se chamou Free Software Foundation (FSF), criada em 1985. Em 1986, Marice J. Bach publica Design of the Unix Operating System.
+
+Em 1988, Linus foi admitido na Universidade de Helsinki. No mesmo ano, Andy Tanenbaum traz a público o SO MINIX, um derivativo do Unix para fins didáticos que rodava em computadores pessoais (PCs). No fim dos anos 1980, Linus toma contato com os PCs. Em 1990, Torvalds começa a aprender a linguagem de programação C em seus estudos. Em 1991, Linus compra um PC com um processador Intel 80386. Em 5 de janeiro de 1991, ele compra um Intel 80386-IBM PC antes de receber sua cópia MINIX, que, por sua vez, lhe permitiu começar a trabalhar no que se tornaria o Linux.
+
+Com 21 anos, sendo cinco já de experiência em programação (em C), toma contato com o SO Unix da Universidade (SunOS, atualmente Solaris) e desejava usar a versão de Tannenbaum, o Minix, no seu recém adquirido 80386. Entretanto, descontente com os recursos do Minix, especialmente em relação ao seu emulador de terminal que ele utilizaria para conectar remotamente ao Unix da universidade, começa a desenvolver seu próprio emulador de terminal que não rodaria sobre o Minix, mas sim diretamente no hardware do PC com 80386. Esse projeto pessoal foi sendo modificado gradualmente e adquirindo características de um sistema operacional independente do Minix. Esse é o início do desenvolvimento do núcleo Linux, relatado pelo próprio Linus Torvalds em seu livro Just for fun. O projeto do Linux foi lançado em 1991 em uma famosa mensagem para a Usenet, em que divulga que estava disposto a disponibilizar o código-fonte e contar com a colaboração de outros programadores. Desde os primeiros dias de liberação do Linux à comunidade, recebe ajuda de hackers do Minix, e hoje recebe contribuições de milhares de programadores dos mais diversos locais do mundo.
+
+Em 1997, Linus Torvalds recebe os prêmios "1997 Nokia Foundation Award'y" e "Lifetime Achievement Award at Uniforum Pictures". No mesmo ano, finaliza os estudos superiores (1988-1997), tendo passado 10 anos como estudante e pesquisador na Universidade de Helsínquia, coordenando o desenvolvimento do núcleo do sistema operacional desde 1992.
+
+Torvalds trabalhou na Transmeta (fabricante de processadores para portáteis) entre 1997 e 2003, e neste ano juntou-se à Open Source Development Labs (OSDL), fundação criada para ajudar no desenvolvimento do núcleo Linux, como OSDL fellow. Contribuem para essa fundação várias grandes empresas do ramo da informática, como IBM, Oracle e HP.
+
+Torvalds possui a marca registrada "Linux" e supervisiona[9] esse uso por meio da organização sem fins lucrativos Linux International, dirigida por Jon Hall.
+
+Em entrevista a Embedded Linux Conference, Torvalds afirmou: "O Desktop realmente não abraçou completamente o mundo Linux ainda para usuários finais, mas hoje vemos muito mais empresas aderindo ao Linux para esta finalidade. Hoje vejo o desktop Linux tão desenvolvido quanto nunca. Em 25 anos, eu e meus colegas e todos os colaboradores conseguimos colocar o Linux em quase que literalmente todos os lugares, tenho pelo menos mais 25 anos para conquistar o Desktop e eu vou fazê-lo!".[10]
+
+Linux
+Ver artigo principal: História do Linux
+Os primeiros protótipos do Linux foram publicados ainda em 1991, e a versão 1.0, em 14 de março de 1994. A convite de seu colega que também fala sueco, estudante de ciências da computação, Lars Wirzenius, Linus participa de uma palestra gratuita em 1991, do renomado ativista de software livre, Richard Stallman, conhecendo assim, o Projeto GNU, e publicando mais tarde o núcleo Linux sob licença GNU General Public License, versão 2 (GPLv2).
+
+Conexão entre os nomes Linus e Linux
+Ver artigo principal: História do Linux#O nome
+Inicialmente Linus Torvalds nomeou seu sistema freax, combinação da palavra free (livre, em inglês) ou freak (diferente/estranho, em inglês) e o x do UNIX, mas Ari Lemmke, administrador do servidor FTP onde o código estava disponível, renomeou o diretório para linux para dar mais clareza.[11]
+
+Reconhecimento público
+A revista Time o reconheceu diversas vezes: Em 2000, foi ranqueado como 17.º na Time 100: The Most Important People of the Century. Em 2004, nomeado como uma das mais influentes pessoas do mundo. Em 2006, a versão europeia o nomeou como um dos heróis revolucionários dos últimos sessenta anos.
+
+InfoWorld lhe concedeu o Prêmio pelas Realizações Industriais de 2000.
+
+No verão de 2004, os telespectadores da YLE (a companhia de transmissão pública da Finlândia), colocaram Torvalds em 16º, entre os 100 maiores finlandeses.
+
+Em uma pesquisa da BusinessWeek de 2005, Torvalds aparece como um dos “melhores gerentes”.
+
+Em 2006, a Business 2.0 o nomeou uma das “10 pessoas que não importam”, pelo crescimento do Linux, Torvalds possui um impacto individual não muito significante.
+
+Em 2010, como parte da série, “o guia Britannica das pessoas mais influentes do mundo”, Torvalds foi listado entre um dos “100 inventores mais influentes de todos os tempos”.
+
+Em 11 de outubro de 2017, a companhia SUSE fez uma música chamada: Linus Said (Linus disse, em inglês).
+
+No Brasil
+Embora tenha sido convidado inúmeras vezes, Linus Torvalds nunca compareceu ao maior evento de Software Livre do Brasil e um dos maiores do mundo, o FISL, realizado anualmente em Porto Alegre desde 1999. Mas isso não significa que Linus nunca tenha vindo ao Brasil. Ele participou, nos dias 17 e 18 de novembro de 2011, no LinuxCon Brasil,[12] em São Paulo, que aconteceu no São Paulo Expo Norte. Inclusive foi durante essa visita que, em entrevista para o G1, que Linus admitiu que programar era apenas um hobby “Era apenas um hobby. Ainda é um hobby, na verdade”, também afirmou “O fato de que também é meu trabalho é, para mim, secundário. Eu ainda desenvolvo o Linux não porque me pagam, mas porque é a coisa mais interessante que eu me imagino fazendo.”[1][13]
+
+Referências:
+ «Citizen Linus» (em inglês). LWN.net. 13 de setembro de 2010. Consultado em 16 de maio de 2018
+ Rogoway, Mike (14 de setembro de 2010). «Linus Torvalds, already an Oregonian, now a U.S. citizen» (em inglês). The Oregonian. Consultado em 16 de maio de 2018
+ «Tudo Sobre: Linus Torvalds». TechTudo. Consultado em 7 de janeiro de 2014
+ «Technology Academy Finland – Stem cell pioneer and open source software engineer are 2012 Millennium Technology Prize laureates». Technologyacademy.fi (em inglês). 19 de abril de 2012. Consultado em 24 de abril de 2012. Arquivado do original em 17 de janeiro de 2014
+ «Computer-Pioneer-Award» (em inglês). Consultado em 16 de maio de 2018
+ «Linux Online - Linus Torvalds Bio». Linux.org. Consultado em 13 de março de 2010. Arquivado do original em 26 de junho de 2004
+ Torvalds & Diamond 2001, p. 38, 94.
+ «NODES research group». Cs.helsinki.fi. 16 de Outubro de 2008. Consultado em 16 de Setembro de 2012
+ Rob '"'cmdrtaco'"' Malda (12 de Janeiro de 2012). «Marca registada Linux sobre vigia no Slashdot». Slashdot (em inglês). Consultado em 16 de Setembro de 2012
+ «Linus Torvalds quer o Linux dominando o Desktop». www.diolinux.com.br. Consultado em 23 de maio de 2016
+ Moody, Glen. «The Greatest OS That (Never) Was». Wired (em inglês). Consultado em 16 de maio de 2018
+ «LinuxCon Brasil 2011: saiba tudo sobre o evento»
+ G1, Leopoldo GodoyDo; Paulo, em São (2 de setembro de 2010). «Sistema operacional para PCs vai se tornar irrelevante, diz criador do Linux». Tecnologia e Games. Consultado em 19 de agosto de 2022
